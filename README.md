@@ -1,7 +1,25 @@
-# Tauri + Vanilla
+# Ticket Market
+くじを購入して、設けるゲーム
+アップグレード、転生あり
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+## ゲーム方針
+初期所持金は $10,000
+売られているチケットを購入して、利益を出す。
+チケットによっては利益が出にくい（期待値が100%より低いもの）もある
+所持金でどのチケットも購入できなくなったら Game Over
 
-## Recommended IDE Setup
+## チケット一覧
+### １枚目
+価格：$500
+30% $800
+25% $700
+20% $600
+15% $500
+10% $400
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## アップグレード一覧
+
+
+## 転生取得スキル一覧
+
+
